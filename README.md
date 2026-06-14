@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20MV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ECE%20Engineer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20MV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -17,13 +17,9 @@
 ```javascript
 const praveen = {
   name: "Praveen MV",
-  location: "Tamil Nadu, India 🇮🇳",
-  education: "BE - Electronics & Communication Engineering (2022–2026)",
-  college: "Dhanalakshmi Srinivasan Engineering College (CGPA: 8.5/10)",
   role: "Full-Stack Developer | DSA Enthusiast",
   focus: ["MERN Stack", "System Design", "DSA", "AI Integration"],
   currentlyLearning: ["Advanced DSA", "System Design", "Node.js Internals"],
-  funFact: "I solve DSA problems daily and push every solution to GitHub 💪"
 };
 ```
 
@@ -56,6 +52,13 @@ const praveen = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**BE - Electronics & Communication Engineering** (2022–2026)  
+Dhanalakshmi Srinivasan Engineering College · CGPA: **8.5 / 10**
 
 ---
 
@@ -151,7 +154,7 @@ const praveen = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-mv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenvedanayagam/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/S6sDRAvCKS/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenvedha26)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvpraveenmng@gmail.com)
