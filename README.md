@@ -14,14 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const praveen = {
-  name: "Praveen MV",
-  role: "Full-Stack Developer | DSA Enthusiast",
-  focus: ["MERN Stack", "System Design", "DSA", "AI Integration"],
-  currentlyLearning: ["Advanced DSA", "System Design", "Node.js Internals"],
-};
-```
+- 👨‍💻 Full-Stack Developer focused on building scalable MERN stack applications
+- 🧠 Passionate about DSA — solving problems daily on LeetCode 
+- 🚀 Love integrating AI APIs into real-world apps
+- 🌱 Currently leveling up in Advanced DSA, System Design & Node.js Internals
+- 🤝 Open to collaborating on interesting backend or full-stack projects
 
 ---
 
